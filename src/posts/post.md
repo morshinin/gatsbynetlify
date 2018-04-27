@@ -7,7 +7,7 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vitae ipsam, reprehend
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Corporis ut facere aut ipsa architecto mollitia, vero dolore in veniam quaerat.
 
-![Me](/static/assets/ava.jpg)
+![Me](/assets/ava.jpg)
 
 * This
 * Is
