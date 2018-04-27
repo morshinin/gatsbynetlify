@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the new blog"
+title: "My awesome blog, fuckers!"
 date: "2018-04-26"
 ---
 
